@@ -1,0 +1,1 @@
+ini adalah API planets yang ada di SWAPI
